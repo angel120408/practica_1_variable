@@ -18,5 +18,6 @@ print(A)#Nos muestra el valor de A
 print(a)#Nos muestra el valor de a
 
 
+![image](https://github.com/user-attachments/assets/933976b3-09c8-4af7-8f75-9550c9aec936)
 
-![image](https://github.com/user-attachments/assets/479b671e-1334-442b-a9ce-afe878728b87)
+
